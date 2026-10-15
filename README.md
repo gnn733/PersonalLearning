@@ -6,6 +6,8 @@
 
 - [Java 基础与后端](learning-resources/java/README.md)
 - [Agent 与 RAG](learning-resources/agent-rag/README.md)
+- [RAG 之后的 Agent 进阶路线](learning-resources/agent-rag/after-rag-roadmap.md)
+- [LangGraph 分步学习与资料](learning-resources/agent-rag/langgraph-study-guide.md)
 - [实战项目](learning-resources/projects/README.md)
 - [建议学习顺序](learning-resources/study-plan.md)
 

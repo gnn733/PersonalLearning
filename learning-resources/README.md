@@ -10,6 +10,9 @@
 | --- | --- |
 | [Java 基础与后端](java/README.md) | 复习资料、理解型教程、当前应学的知识范围 |
 | [Agent 与 RAG](agent-rag/README.md) | ReAct 原理、知识库流程、版本注意事项 |
+| [RAG 后续与 Agent 进阶](agent-rag/after-rag-roadmap.md) | 从基础 RAG 到工程化、MCP 与多 Agent |
+| [LangGraph 分步学习](agent-rag/langgraph-study-guide.md) | 状态、节点、路由、工具循环、持久化与人工确认 |
+| [新增教程与项目](agent-rag/advanced-resources.md) | Academy、LangGraph 101、All-in-RAG 与维护状态 |
 | [实战项目](projects/README.md) | Java 项目、RAG 项目、后续 Java Agent 示例 |
 | [建议学习顺序](study-plan.md) | 阶段目标、完成标准、每周时间分配 |
 

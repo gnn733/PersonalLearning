@@ -68,6 +68,12 @@
 
 Runtime 和中间件可以结合需求学习：传用户信息时学习运行上下文；记录调用耗时、处理重试时学习中间件。
 
-## 下一步
+## RAG 做通后的后续学习
+
+1. [完整 Agent 进阶路线](after-rag-roadmap.md)：检索评估、LangGraph、Agentic RAG、记忆与人工确认、服务化、MCP 与多 Agent。
+2. [LangGraph 分步学习](langgraph-study-guide.md)：用普通 Python 函数理解 State、Node、Edge，并给出具体 Notebook 顺序。
+3. [新增教程与项目清单](advanced-resources.md)：含 Star 与维护状态、指定文件入口、版本差异。
+
+基础 RAG 完成后即可开始 LangGraph，不必先学完整个高级检索体系。先用同一个学习资料助手迭代。
 
 [按项目逐步练习](../projects/README.md) · [学习顺序](../study-plan.md)

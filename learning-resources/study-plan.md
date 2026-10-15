@@ -97,6 +97,16 @@
 | 多轮对话内容越来越多 | 上下文管理、摘要与状态持久化 |
 | 希望用 Java 做 Agent | Spring AI Alibaba 的简单工具示例 |
 
+## Agent 后续专项路线
+
+Java 与 Agent 两条线可以并行。Agent 的后续顺序建议为：基础 RAG 与小型评估 → LangGraph 状态/节点/边 → 工具循环 → 有限改写的 Agentic RAG → 记忆/流式/人工确认 → 接口与部署 → 按需 MCP/子图/多 Agent。
+
+- [逐阶段任务与完成标准](agent-rag/after-rag-roadmap.md)
+- [LangGraph 具体学习顺序](agent-rag/langgraph-study-guide.md)
+- [新增资料及版本注意](agent-rag/advanced-resources.md)
+
+每周约 9 小时 Agent 学习时间，可以分为约 3 小时教程、5 小时编码调试、1 小时复盘；按完成标准推进，遇到科研或课程安排时调整。
+
 ## 每完成一个功能，记录四件事
 
 1. 用户输入了什么？
